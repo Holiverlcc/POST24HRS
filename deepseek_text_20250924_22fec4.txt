@@ -1,0 +1,7 @@
+telegram-auto-poster/
+├── render.yaml
+├── bot.py
+├── requirements.txt
+├── runtime.txt
+├── README.md
+└── .gitignore (opcional)
